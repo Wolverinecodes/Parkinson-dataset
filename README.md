@@ -1,4 +1,4 @@
-Parkinson's Disease Dataset with Data Visualization
+Parkinson's Disease Dataset 
 This repository contains a compressed dataset related to Parkinson's disease, which has been thoroughly analyzed using various data visualization techniques. The visualizations aim to provide insights into the patterns and features within the dataset, helping to understand the factors related to Parkinson's disease.
 
 Contents
